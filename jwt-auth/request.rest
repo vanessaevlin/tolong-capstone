@@ -1,0 +1,26 @@
+GET http://localhost:7000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsIm5hbWUiOiJMaXNhIiwiZW1haWwiOiJsYWxpc2FAZ21haWwuY29tIiwiaWF0IjoxNjg2MjE2MTUwLCJleHAiOjE2ODYyMTYxNzB9.pKJqaCYqSDl2N1j7IV1BpdDTFEJTyjS7Ytn04EuOOUM
+
+
+###
+POST http://localhost:7000/users
+Content-Type: application/json
+
+{
+    "name": "Lisa",
+    "email": "lalisa@gmail.com",
+    "password": "lalisa2",
+    "confPassword": "lalisa2"
+}
+
+###
+POST http://localhost:7000/login
+Content-Type: application/json
+
+{
+    "email": "lalisa@gmail.com",
+    "password": "lalisa2"
+}
+
+###
+GET http://localhost:7000/token
