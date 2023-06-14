@@ -1,4 +1,4 @@
-{ "AmbulanceJateng":{
+{ "Ambulance":{
     "1": {
         "No": "1",
         "name_place": "RS Umum Daerah Dr. Moewardi Surakarta",
@@ -118,7 +118,7 @@
         "city": "Solo",
         "call_number": "119"
     }
-},"PoliceJateng":{
+},"Police":{
     "1": {
         "No": "1",
         "location(cordinat)": "",
@@ -329,7 +329,7 @@
         "city": "Polres Wonosobo   ",
         "call_number": "(0286)  321110"
     }
-}, "FireDepJateng":{
+}, "FireDep":{
     "1": {
         "No": "1",
         "location(cordinat)": "Jl. Madukoro Raya No.6, Krobokan, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50144",

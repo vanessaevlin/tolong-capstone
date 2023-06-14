@@ -1,4 +1,4 @@
-{ "AmbulanceJabar":{
+{ "Ambulance":{
     "1": {
         "No": "1",
         "name_place": "RSUD Ujung Berung Kota Bandung (Pemkot Bandung)",
@@ -272,7 +272,7 @@
         "city": "Bogor",
         "call_number": "(021) 87909999"
     }
-}, "PoliceJabar":{
+}, "Police":{
         "1": {
             "No": "1",
             "location(coordinat)": "H7JM+72J, Jl. Raya Salopa, Cinunjang, Kec. Gunungtanjung, Kabupaten Tasikmalaya, Jawa Barat 46418",
@@ -573,7 +573,7 @@
             "city": "Polsek Citereup",
             "call_number": "(0251) 8752229"
         }
-}, "FireDepJabar":{
+}, "FireDep":{
     "1": {
         "No": "1",
         "location(coordinat)": "Jl. Sukabumi No.17, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271",

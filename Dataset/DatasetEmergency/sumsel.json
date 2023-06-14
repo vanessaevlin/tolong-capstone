@@ -1,4 +1,4 @@
-{ "AmbulanceSumsel":{
+{ "Ambulance":{
     "1": {
         "No": "1",
         "name_place": "RSUD Siti Fatimah Az-Zahra Provinsi Sumatera Selatan",
@@ -27,7 +27,7 @@
         "city": "Palembang",
         "call_number": "(0711) 5610503"
     }
-}, "PoliceSumsel": {
+}, "Police": {
     "1": {
         "No": "1",
         "location(coordinat)": "Jl. Jend. Sudirman No.KM.4, RW.5, Pahlawan, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30151",
@@ -46,7 +46,7 @@
         "city": "Polisi Sektor Kota (Polsekta) Seberang Ulu 1 Palembang",
         "call_number": "(0711) 510128"
     }
-}, "FireDepSumsel":{
+}, "FireDep":{
     "1": {
         "No": "1",
         "location(coordinat)": "3QHX+Q6C, Sako, Kec. Sako, Kota Palembang, Sumatera Selatan 30961",
