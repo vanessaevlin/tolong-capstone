@@ -1,0 +1,679 @@
+{ "AmbulanceJabar":{
+    "1": {
+        "No": "1",
+        "name_place": "RSUD Ujung Berung Kota Bandung (Pemkot Bandung)",
+        "location(cordinat)": "Jl. Rumah Sakit No.22 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 7800017"
+    },
+    "2": {
+        "No": "2",
+        "name_place": "RSUP Hasan Sadikin (Kemenkes RI)",
+        "location(cordinat)": "Jl. Pasteur No.38 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 2034953"
+    },
+    "3": {
+        "No": "3",
+        "name_place": "RS Mata Cicendo (Kementrian Kesehatan)",
+        "location(cordinat)": "Jl. Cicendo No.4 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4231280"
+    },
+    "4": {
+        "No": "4",
+        "name_place": "RSU Dr. Salamun (Jankes TNI AU)",
+        "location(cordinat)": "Jl. Ciumbuleuit No.203 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 2032090"
+    },
+    "5": {
+        "No": "5",
+        "name_place": "RSU Sartika Asih (Mabes Polri)",
+        "location(cordinat)": "Jl. Moh Toha No.369 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 5229544"
+    },
+    "6": {
+        "No": "6",
+        "name_place": "RSU Sariningsih (Kesdam III/Siliwangi)",
+        "location(cordinat)": "Jl. RE Martadinata No.9 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4204250"
+    },
+    "7": {
+        "No": "7",
+        "name_place": "RS Pindad (PT Pindad)",
+        "location(cordinat)": "Jl. Gatot Soebroto No.517 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 7327964"
+    },
+    "8": {
+        "No": "8",
+        "name_place": "RSU Kebonjati (Yayasan Kawaluyaan)",
+        "location(cordinat)": "Jl. Kebonjati No. 152 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4231280"
+    },
+    "9": {
+        "No": "9",
+        "name_place": "RSU Advent (Yayasan RS Advent)",
+        "location(cordinat)": "Jl. Cihampelas No. 161 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 2034386"
+    },
+    "10": {
+        "No": "10",
+        "name_place": "RSU St. Borromeus (Perhimpunan St Baromeus)",
+        "location(cordinat)": "Jl. Ir. H.Juanda No.100 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 2504041"
+    },
+    "11": {
+        "No": "11",
+        "name_place": "RSU Santo Yusuf (Perhimpunan St Baromeus)",
+        "location(cordinat)": "Jl. Cikutra No.7 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 7208172"
+    },
+    "12": {
+        "No": "12",
+        "name_place": "RSU Bungsu (Yayasan Bela Keselamatan)",
+        "location(cordinat)": "Jl. Veteran No. 20 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4230550"
+    },
+    "13": {
+        "No": "13",
+        "name_place": "RSU Muhammadiyah (Perhimpunan Muhammadiyah)",
+        "location(cordinat)": "Jl. K.H. Ahmad Dahlan No.53 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 7301062"
+    },
+    "14": {
+        "No": "14",
+        "name_place": "RSU Immanuel (Badan RS GKP)",
+        "location(cordinat)": "Jl. Kopo No.161 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 5201656"
+    },
+    "15": {
+        "No": "15",
+        "name_place": "RSU AlIslam (Yayasan Rs Islam KSWI Jabar)",
+        "location(cordinat)": "Jl. Soekarno Hatta No.664 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 7565588"
+    },
+    "16": {
+        "No": "16",
+        "name_place": "RSKIA Limijati (Yayasan Limijati)",
+        "location(cordinat)": "Jl. RE Martadinata No.39 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4207770"
+    },
+    "17": {
+        "No": "17",
+        "name_place": "RSB Emma Poeradiredja (Yayasan Kesehatan)",
+        "location(cordinat)": "Jl. Sumatera No.4648 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4205437"
+    },
+    "18": {
+        "No": "18",
+        "name_place": "RSIA Sukajadi (Yayasan Kesejahteraan)",
+        "location(cordinat)": "Jl. Sukajadi No.149 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 2032942"
+    },
+    "19": {
+        "No": "19",
+        "name_place": "RSK Ginjal Habibie (Pembinaan dan Asuhan Anak)",
+        "location(cordinat)": "Jl. Tubagus Ismail No.48 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 2501985"
+    },
+    "20": {
+        "No": "20",
+        "name_place": "RSK Bedah Halmahera Siaga (Yayasan Pengabdian)",
+        "location(cordinat)": "Jl. RE Martadinata No.28 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4206061"
+    },
+    "21": {
+        "No": "21",
+        "name_place": "RSKIA Hermina Pasteur (PT. Medikaloka Pasteur)",
+        "location(cordinat)": "Jl. Dr. Djundjunan No.107 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 6072525"
+    },
+    "22": {
+        "No": "22",
+        "name_place": "RSB Melinda (CV Melinda Kasih Ibu)",
+        "location(cordinat)": "Jl. Padjajaran No.46 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4266700"
+    },
+    "23": {
+        "No": "23",
+        "name_place": "RSK Gigi dan Mulut Kota Bandung",
+        "location(cordinat)": "Jl. RE Martadinata No.45 Bandung",
+        "city": "Bandung",
+        "call_number": "(022) 4234058"
+    },
+    "24": {
+        "No": "24",
+        "name_place": "RS Umum Azra",
+        "location(cordinat)": "Jl. Raya Pajajaran No.219, RT.02/RW.11, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
+        "city": "Bogor",
+        "call_number": "(0251) 8318456"
+    },
+    "25": {
+        "No": "25",
+        "name_place": "RS Pasutri Bogor",
+        "location(cordinat)": "Jl. Merak No.3, RT.03/RW.06, Tanah Sareal, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16161",
+        "city": "Bogor",
+        "call_number": "(0251) 8349707"
+    },
+    "26": {
+        "No": "26",
+        "name_place": "RS Ibu dan Anak Sawojajar",
+        "location(cordinat)": "JL.Sawangan Permai 50 RT 002/0916511 16121, RT.01/RW.04, Pabaton, Central Bogor, Bogor City, West Java 16121",
+        "city": "Bogor",
+        "call_number": "(0251) 8324371"
+    },
+    "27": {
+        "No": "27",
+        "name_place": "RS Mulia",
+        "location(cordinat)": "Jalan Raya Pajajaran No.98 Kp. Kalibata Rt. 003/III, Kelurahan, RT.02/RW.03, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
+        "city": "Bogor",
+        "call_number": "(0251)  8379898"
+    },
+    "28": {
+        "No": "28",
+        "name_place": "RSIA Nuraida",
+        "location(cordinat)": "Jalan Haji Jl. Achmad Sobana No.105, RT.04/RW.06, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16152",
+        "city": "Bogor",
+        "call_number": "(0251) 8368866"
+    },
+    "29": {
+        "No": "29",
+        "name_place": "RSUD Leuwiliang Bogor",
+        "location(cordinat)": "Jl. Raya Cibeber No.l, Cibeber, Kec. Leuwiliang, Kabupaten Bogor, Jawa Barat",
+        "city": "Bogor",
+        "call_number": "(0251) 8643290"
+    },
+    "30": {
+        "No": "30",
+        "name_place": "RS Hermina Bogor",
+        "location(cordinat)": "Jl. Ring Road I Kav Perumahan, Jl. Ring Road Taman Yasmin No.23, 25, 27, RT.08/RW.08, Curugmekar, Kec. Bogor Bar., Kota Bogor, Jawa Barat",
+        "city": "Bogor",
+        "call_number": "(0251) 8382525"
+    },
+    "31": {
+        "No": "31",
+        "name_place": "RS Sentra Medika Cibinong",
+        "location(cordinat)": "Jl. Raya Mayor Oking Jaya Atmaja No.9, Cirimekar, Kec. Cibinong, Kabupaten Bogor, Jawa Barat",
+        "city": "Bogor",
+        "call_number": "(021) 87909999"
+    },
+    "32": {
+        "No": "32",
+        "name_place": "RS PMI Bogor",
+        "location(cordinat)": "Jl. Raya Pajajaran No.80, RT.02/RW.05, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat",
+        "city": "Bogor",
+        "call_number": "(0251) 8393030"
+    },
+    "33": {
+        "No": "33",
+        "name_place": "RS Umum Melania",
+        "location(cordinat)": "Jl. Pahlawan No.91, Kota Bogor",
+        "city": "Bogor",
+        "call_number": "(0251) 8321196"
+    },
+    "34": {
+        "No": "34",
+        "name_place": "RS Paru Dr. M. Goenawan Partowidigdo",
+        "location(cordinat)": "Jl. Raya Puncak KM.83, Po Box 28 Cisarua Bogor 16750",
+        "city": "Bogor",
+        "call_number": "(0251) 8253630"
+    },
+    "35": {
+        "No": "35",
+        "name_place": "RS Umum Karya Bhakti Pratiwi",
+        "location(cordinat)": "Jl. Raya Dramaga KM. 7 Bogor",
+        "city": "Bogor",
+        "call_number": "(0251) 8626868"
+    },
+    "36": {
+        "No": "36",
+        "name_place": "RS Umum Restu Kasih",
+        "location(cordinat)": "Jl. Raya Bogor KM 19 No. 3A Kramat Jati",
+        "city": "Bogor",
+        "call_number": "(021) 8001177"
+    },
+    "37": {
+        "No": "37",
+        "name_place": "RS Umum Harapan Bunda",
+        "location(cordinat)": "Jl. Raya Bogor Km.22 No.44 Jakarta Timur",
+        "city": "Bogor",
+        "call_number": "8400257"
+    },
+    "38": {
+        "No": "38",
+        "name_place": "RS Umum Bhayangkara Tk. I R.Said Sukanto",
+        "location(cordinat)": "Jl. Raya Bogor Kramat Jati,Jakarta Timur",
+        "city": "Bogor",
+        "call_number": "(021) 8093288"
+    },
+    "39": {
+        "No": "39",
+        "name_place": "RS Umum Sentra Medika Cibinong",
+        "location(cordinat)": "Jl. Mayor Oking Jaya Atmaja No.9 Bogor",
+        "city": "Bogor",
+        "call_number": "(021) 87909999"
+    }
+}, "PoliceJabar":{
+        "1": {
+            "No": "1",
+            "location(coordinat)": "H7JM+72J, Jl. Raya Salopa, Cinunjang, Kec. Gunungtanjung, Kabupaten Tasikmalaya, Jawa Barat 46418",
+            "city": "POLSEK GUNUNGTANJUNG",
+            "call_number": "(0265) 239 0225"
+        },
+        "2": {
+            "No": "2",
+            "location(coordinat)": "Jl. Syekh Abdul Muhyi No.42, Gununggede, Kec. Kawalu, Kab. Tasikmalaya, Jawa Barat 46182",
+            "city": "POLSEK KAWALU",
+            "call_number": "(0265) 320 011"
+        },
+        "3": {
+            "No": "3",
+            "location(coordinat)": "M66H+62P, Cikalang, Tawang, Tasikmalaya Regency, West Java 46114",
+            "city": "POLSEK TAWANG",
+            "call_number": "(0265) 313 330"
+        },
+        "4": {
+            "No": "4",
+            "location(coordinat)": "M692+RW3, Jl. Pertanian, Cilembang, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46123",
+            "city": "POLSEK CIHIDEUNG",
+            "call_number": "(0265) 311 917"
+        },
+        "5": {
+            "No": "5",
+            "location(coordinat)": "",
+            "city": "POLSEK CINEAM",
+            "call_number": "(0265) 380 607"
+        },
+        "6": {
+            "No": "6",
+            "location(coordinat)": "",
+            "city": "POLSEK MANONJAYA",
+            "call_number": "(0265) 380 151"
+        },
+        "7": {
+            "No": "7",
+            "location(coordinat)": "",
+            "city": "POLSEK CIBEUREUM",
+            "call_number": "(0265) 323 262"
+        },
+        "8": {
+            "No": "8",
+            "location(coordinat)": "",
+            "city": "POLSEK INDIHIANG",
+            "call_number": "(0265) 331 364"
+        },
+        "9": {
+            "No": "9",
+            "location(coordinat)": "",
+            "city": "POLSEK CISAYONG",
+            "call_number": "(0265) 421 666"
+        },
+        "10": {
+            "No": "10",
+            "location(coordinat)": "",
+            "city": "POLSEK RAJAPOLAH",
+            "call_number": "(0265) 420 110"
+        },
+        "11": {
+            "No": "11",
+            "location(coordinat)": "",
+            "city": "POLSEK JAMANIS",
+            "call_number": "(0265) 452 371"
+        },
+        "12": {
+            "No": "12",
+            "location(coordinat)": "",
+            "city": "POLSEK PAGERAGEUNG",
+            "call_number": "(0265) 455 959"
+        },
+        "13": {
+            "No": "13",
+            "location(coordinat)": "",
+            "city": "POLSEK CIAWI",
+            "call_number": "(0265) 455 110"
+        },
+        "14": {
+            "No": "14",
+            "location(coordinat)": "",
+            "city": "POLSEK KADIPATEN",
+            "call_number": "(0265) 429 467"
+        },
+        "15": {
+            "No": "15",
+            "location(coordinat)": "",
+            "city": "POLRES TASIKMALAYA KOTA",
+            "call_number": "(0265) 330 032"
+        },
+        "16": {
+            "No": "16",
+            "location(coordinat)": "",
+            "city": "Polsek Caringin",
+            "call_number": "(0251) 224417"
+        },
+        "17": {
+            "No": "17",
+            "location(coordinat)": "",
+            "city": "Polsek Klapanunggal",
+            "call_number": "(021) 82492276"
+        },
+        "18": {
+            "No": "18",
+            "location(coordinat)": "",
+            "city": "Polsek Megamendung",
+            "call_number": "(0251) 248569"
+        },
+        "19": {
+            "No": "19",
+            "location(coordinat)": "",
+            "city": "Polsek Babakan Madang",
+            "call_number": "(021) 87962777"
+        },
+        "20": {
+            "No": "20",
+            "location(coordinat)": "",
+            "city": "Polsek Nanggung",
+            "call_number": "(0251) 682769"
+        },
+        "21": {
+            "No": "21",
+            "location(coordinat)": "",
+            "city": "Polsek Cariu",
+            "call_number": "(021) 89961058"
+        },
+        "22": {
+            "No": "22",
+            "location(coordinat)": "",
+            "city": "Polsek Cileungsi",
+            "call_number": "(021) 8230861"
+        },
+        "23": {
+            "No": "23",
+            "location(coordinat)": "",
+            "city": "Polsek Jonggol",
+            "call_number": "(021) 89931174"
+        },
+        "24": {
+            "No": "24",
+            "location(coordinat)": "",
+            "city": "Polsek Cijeruk",
+            "call_number": "(0251) 220110"
+        },
+        "25": {
+            "No": "25",
+            "location(coordinat)": "",
+            "city": "Polsek Ciawi",
+            "call_number": "(0251) 240110"
+        },
+        "26": {
+            "No": "26",
+            "location(coordinat)": "",
+            "city": "Polsek Cisarua",
+            "call_number": "(0251) 254540"
+        },
+        "27": {
+            "No": "27",
+            "location(coordinat)": "",
+            "city": "Polsek Gunung Putri",
+            "call_number": "(0251) 8671405"
+        },
+        "28": {
+            "No": "28",
+            "location(coordinat)": "",
+            "city": "Polsek Citeureup",
+            "call_number": "(021) 8752229"
+        },
+        "29": {
+            "No": "29",
+            "location(coordinat)": "",
+            "city": "Polsek Cibinong",
+            "call_number": "(021) 8752217"
+        },
+        "30": {
+            "No": "30",
+            "location(coordinat)": "",
+            "city": "Polsek Parung",
+            "call_number": "(0251) 616007"
+        },
+        "31": {
+            "No": "31",
+            "location(coordinat)": "",
+            "city": "Polsek Gunung Sindur",
+            "call_number": "(021) 7561844"
+        },
+        "32": {
+            "No": "32",
+            "location(coordinat)": "",
+            "city": "Polsek Sukaraja",
+            "call_number": "(0251) 656678"
+        },
+        "33": {
+            "No": "33",
+            "location(coordinat)": "",
+            "city": "Polsek Kemang",
+            "call_number": "(0251) 7535935"
+        },
+        "34": {
+            "No": "34",
+            "location(coordinat)": "",
+            "city": "Polsek Ciomas",
+            "call_number": "(0251) 322334"
+        },
+        "35": {
+            "No": "35",
+            "location(coordinat)": "",
+            "city": "Polsek Rumpin",
+            "call_number": "(021) 75791076"
+        },
+        "36": {
+            "No": "36",
+            "location(coordinat)": "",
+            "city": "Polsek Ciampea",
+            "call_number": "(0251) 621146"
+        },
+        "37": {
+            "No": "37",
+            "location(coordinat)": "",
+            "city": "Polsek Cibungbulang",
+            "call_number": "(0251) 647398"
+        },
+        "38": {
+            "No": "38",
+            "location(coordinat)": "",
+            "city": "Polsek Leuwiliang",
+            "call_number": "(0251)  647003"
+        },
+        "39": {
+            "No": "39",
+            "location(coordinat)": "",
+            "city": "Polsek Parung Panjang",
+            "call_number": "(021) 5978880"
+        },
+        "40": {
+            "No": "40",
+            "location(coordinat)": "",
+            "city": "Polsek Cigudeg",
+            "call_number": "(0251) 681110"
+        },
+        "41": {
+            "No": "41",
+            "location(coordinat)": "",
+            "city": "Polsek Jasinga",
+            "call_number": "(021) 34357799"
+        },
+        "42": {
+            "No": "42",
+            "location(coordinat)": "",
+            "city": "Polres Bogor",
+            "call_number": "(021) 8750163"
+        },
+        "43": {
+            "No": "43",
+            "location(coordinat)": "",
+            "city": "Polsekta Bogor Tengah",
+            "call_number": "(0251) 8327428"
+        },
+        "44": {
+            "No": "44",
+            "location(coordinat)": "",
+            "city": "Polsekta Bogor Selatan",
+            "call_number": "(0251) 8321972"
+        },
+        "45": {
+            "No": "45",
+            "location(coordinat)": "",
+            "city": "Polsekta Bogor Barat",
+            "call_number": "(0251) 8322054"
+        },
+        "46": {
+            "No": "46",
+            "location(coordinat)": "",
+            "city": "Polsekta Bogor Timur",
+            "call_number": "(0251) 8322014"
+        },
+        "47": {
+            "No": "47",
+            "location(coordinat)": "",
+            "city": "Polsekta Bogor Utara",
+            "call_number": "(0251) 8325505"
+        },
+        "48": {
+            "No": "48",
+            "location(coordinat)": "",
+            "city": "Polsekta Tanahsareal",
+            "call_number": "(0251) 7542620"
+        },
+        "49": {
+            "No": "49",
+            "location(coordinat)": "",
+            "city": "Polresta Bogor",
+            "call_number": "(0251) 665463"
+        },
+        "50": {
+            "No": "50",
+            "location(coordinat)": "",
+            "city": "Polsek Citereup",
+            "call_number": "(0251) 8752229"
+        }
+}, "FireDepJabar":{
+    "1": {
+        "No": "1",
+        "location(coordinat)": "Jl. Sukabumi No.17, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271",
+        "city": "Dinas Kebakaran Dan Penanggulangan Bencana - Kota Bandung",
+        "call_number": "(022) 7207113"
+    },
+    "2": {
+        "No": "2",
+        "location(coordinat)": "4FRM+GFR, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",
+        "city": "Pemadam Kebakaran Kab. Bandung Barat",
+        "call_number": "(022) 87782113"
+    },
+    "3": {
+        "No": "3",
+        "location(coordinat)": "Jl. Raya Teuku Umar No.1, Gandasari, Kec. Cikarang Bar., Kabupaten Bekasi, Jawa Barat 17530",
+        "city": "Kantor DINAS DAMKAR KABUPATEN BEKASI",
+        "call_number": "(021) 22162577"
+    },
+    "4": {
+        "No": "4",
+        "location(coordinat)": "Jl. KH. R. Abdullah Bin Nuh No.1, RT.03/RW.01, Curugmekar, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",
+        "city": "DINAS PEMADAM KEBAKARAN KOTA BOGOR POSKO DAMKAR YASMIN KOTA BOGOR",
+        "call_number": "0851-0026-7815"
+    },
+    "5": {
+        "No": "5",
+        "location(coordinat)": "Komplek, Jl. Raya Pemda Jl. Tegar Beriman No.1, Pakansari, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16914",
+        "city": "Dinas Pemadam Kebakaran Kab. Bogor",
+        "call_number": "(021) 8753547"
+    },
+    "6": {
+        "No": "6",
+        "location(coordinat)": "P44Q+7G8, Wangunharja, Kec. Cikarang Utara, Kabupaten Bekasi, Jawa Barat 17530",
+        "city": "Damkar Jababeka",
+        "call_number": "(021) 8934900"
+    },
+    "7": {
+        "No": "7",
+        "location(coordinat)": "Jl. Sukabumi No.17, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271",
+        "city": "Kantor Pemadam Kebakaran kota Bandung",
+        "call_number": "(022) 7207113"
+    },
+    "8": {
+        "No": "8",
+        "location(coordinat)": "Jl. Terusan Pemuda No.6, Sunyaragi, Kec. Kesambi, Kota Cirebon, Jawa Barat 45124",
+        "city": "Dinas Pemadam Kebakaran Kota Cirebon",
+        "call_number": "(0231) 484113"
+    },
+    "9": {
+        "No": "9",
+        "location(coordinat)": "Jl. Raya Pangkalan No.5, Ciptasari, Kec. Pangkalan, Karawang, Jawa Barat 41362",
+        "city": "POS DAMKAR TEGAL WARU , PANGKALAN",
+        "call_number": "(0267) 6488113"
+    },
+    "10": {
+        "No": "10",
+        "location(coordinat)": "542J+9QV, Jl. Perintis Kemerdekaan, Sirnagalih, Kec. Cilaku, Kabupaten Cianjur, Jawa Barat 43285",
+        "city": "PEMADAM KEBAKARAN CIANJUR",
+        "call_number": "(0263) 281392"
+    },
+    "11": {
+        "No": "11",
+        "location(coordinat)": "3RW2+FPC, Tanjungsari, Kec. Tanjungsari, Kabupaten Sumedang, Jawa Barat 45362",
+        "city": "Damkar Tanjungsari",
+        "call_number": "(022) 7911113"
+    },
+    "12": {
+        "No": "12",
+        "location(coordinat)": "Jalan Raya Soreang Kopo KM.17, Pamekaran, Soreang, Pamekaran, Kec. Soreang, Kabupaten Bandung, Jawa Barat 40912",
+        "city": "Dinas Pemadam Kebakaran dan Penyelamatan Kabupaten Bandung",
+        "call_number": "(022) 5891113"
+    },
+    "13": {
+        "No": "13",
+        "location(coordinat)": "3VRW+M5X, Kompleks gelanggang, Sukamanah, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43152",
+        "city": "Damkar Cisaat",
+        "call_number": "(0266) 222626"
+    },
+    "14": {
+        "No": "14",
+        "location(coordinat)": "Jalan Ki Hajar Dewantara No. 1, Karangasih, Cikarang Utara, Karangasih, Bekasi, Kabupaten Bekasi, Jawa Barat 17530",
+        "city": "Pos Pemadam Kebakaran pilar",
+        "call_number": "(021) 89239900"
+    },
+    "15": {
+        "No": "15",
+        "location(coordinat)": "Jl. Raya Pajajaran No.01 raya, RT.07/RW.02, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",
+        "city": "Dinas pemadam kebakaran kota bogor",
+        "call_number": "(0251) 8322100"
+    },
+    "16": {
+        "No": "16",
+        "location(coordinat)": "Jl. Raya Muchtar No.30, Sawangan Lama, Kec. Bojongsari, Kota Depok, Jawa Barat 16517",
+        "city": "Kantor Pemadam Kebakaran Bojongsari",
+        "call_number": "(0251) 8604113"
+    },
+    "17": {
+        "No": "17",
+        "location(coordinat)": "Jl. Jend. Ahmad Yani No.113, Cipaisan, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41113",
+        "city": "Pemadam Kebakaran Purwakarta",
+        "call_number": "(0264) 8225113"
+    } 
+}}

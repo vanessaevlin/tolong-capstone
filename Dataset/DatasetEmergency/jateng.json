@@ -1,0 +1,442 @@
+{ "AmbulanceJateng":{
+    "1": {
+        "No": "1",
+        "name_place": "RS Umum Daerah Dr. Moewardi Surakarta",
+        "location(cordinat)": "Jl. Kolonel Sutarto No.132, Jebres, Kec. Jebres, Kota Surakarta, Jawa Tengah 57126",
+        "city": "Solo",
+        "call_number": "(0271) 637415"
+    },
+    "2": {
+        "No": "2",
+        "name_place": "RS Umum Dr. Oen",
+        "location(cordinat)": "l. Brigjend Katamso No.55, Tegalharjo, Kec. Jebres, Kota Surakarta, Jawa Tengah 57128",
+        "city": "Solo",
+        "call_number": "(0271) 643139 "
+    },
+    "3": {
+        "No": "3",
+        "name_place": "RS Umum Tk IV Slamet Riyadi Surakarta",
+        "location(cordinat)": "Jalan Slamet Riyadi No No.321Kvi, Purwosari, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57148",
+        "city": "Solo",
+        "call_number": "82135597571"
+    },
+    "4": {
+        "No": "4",
+        "name_place": "RS Umum Brayat Minulya",
+        "location(cordinat)": "Jl. Dr. Setiabudi No.106, Manahan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57139",
+        "city": "Solo",
+        "call_number": "(0271) 716646"
+    },
+    "5": {
+        "No": "5",
+        "name_place": "RS Umum Panti Waluyo",
+        "location(cordinat)": "Jl. Slamet Riyadi No.542, Kerten, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57143",
+        "city": "Solo",
+        "call_number": "(0271) 712114"
+    },
+    "6": {
+        "No": "6",
+        "name_place": "RS Umum PKU Muhammadiyah Surakarta",
+        "location(cordinat)": "Jl. Ronggowarsito No.130, Timuran, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57131",
+        "city": "Solo",
+        "call_number": "(0271) 714578 "
+    },
+    "7": {
+        "No": "7",
+        "name_place": "RS Umum Islam Kustati",
+        "location(cordinat)": "Jl. Kapten Mulyadi No.249, Ps. Kliwon, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57118",
+        "city": "Solo",
+        "call_number": "(0271) 2937111"
+    },
+    "8": {
+        "No": "8",
+        "name_place": "RS Umum Kasih Ibu",
+        "location(cordinat)": "Jl. Slamet Riyadi No.404, Purwosari, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57142",
+        "city": "Solo",
+        "call_number": "(0271) 714422"
+    },
+    "9": {
+        "No": "9",
+        "name_place": "RS Umum Triharsi",
+        "location(cordinat)": "Jalan Wolter Monginsidi No.82, Gilingan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57134",
+        "city": "Solo",
+        "call_number": "(0271) 646061"
+    },
+    "10": {
+        "No": "10",
+        "name_place": "RS Umum Pusat Surakarta",
+        "location(cordinat)": "Jl. Profesor DR. Soeharso No.28, Jajar, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57144",
+        "city": "Solo",
+        "call_number": "(0271) 728297"
+    },
+    "11": {
+        "No": "11",
+        "name_place": "RS Umum Daerah Ibu Fatmawati Soekarno",
+        "location(cordinat)": "Jl. Lettu Sumarto No.1, Kedungupit, Kadipiro, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57136",
+        "city": "Solo",
+        "call_number": "(0271) 715700"
+    },
+    "12": {
+        "No": "12",
+        "name_place": "RS PKU Muhammadiyah Sampangan Surakarta",
+        "location(cordinat)": "Gang Cempaka Sebelas RT.2/12, Jl. Sampangan No.119, Semanggi, Kec. Ps. Kliwon, Jawa Tengah 57191",
+        "city": "Solo",
+        "call_number": "(0271) 633894"
+    },
+    "13": {
+        "No": "13",
+        "name_place": "RS Umum Daerah Bung Karno Kota Surakarta",
+        "location(cordinat)": "Jl. Sungai Serang I, RT.03/RW.03, Mojo, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57117",
+        "city": "Solo",
+        "call_number": "(0271) 2936666"
+    },
+    "14": {
+        "No": "14",
+        "name_place": "RS JIH Solo",
+        "location(cordinat)": "Jl. Adi Sucipto No.118, Jajar, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57144",
+        "city": "Solo",
+        "call_number": "1500805"
+    },
+    "15": {
+        "No": "15",
+        "name_place": "RS Onkologi Solo",
+        "location(cordinat)": "Jl. Siwalan No.37, Kerten, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57143",
+        "city": "Solo",
+        "call_number": "(0271) 741919"
+    },
+    "16": {
+        "No": "16",
+        "name_place": "RS Bhayangkara Surakarta",
+        "location(cordinat)": "Jl. Adi Sucipto No.2, Manahan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57139",
+        "city": "Solo",
+        "call_number": "82138150755"
+    },
+    "17": {
+        "No": "17",
+        "name_place": "PSC 119 Surakarta",
+        "location(cordinat)": "Komp. Balai Kota, Jl. Jend. Sudirman No.2, Kp. Baru, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57111",
+        "city": "Solo",
+        "call_number": "119"
+    }
+},"PoliceJateng":{
+    "1": {
+        "No": "1",
+        "location(cordinat)": "",
+        "city": "Polrestabes Semarang ",
+        "call_number": "(024) 8444444"
+    },
+    "2": {
+        "No": "2",
+        "location(cordinat)": "",
+        "city": "Polresta Surakarta ",
+        "call_number": "(0271) 716198"
+    },
+    "3": {
+        "No": "3",
+        "location(cordinat)": "",
+        "city": "Polres Semarang  ",
+        "call_number": "(024) 6925666"
+    },
+    "4": {
+        "No": "4",
+        "location(cordinat)": "",
+        "city": "Polres Kendal",
+        "call_number": "(0294) 382110"
+    },
+    "5": {
+        "No": "5",
+        "location(cordinat)": "",
+        "city": "Polres Demak ",
+        "call_number": "(0291) 685110"
+    },
+    "6": {
+        "No": "6",
+        "location(cordinat)": "",
+        "city": "Polres Salatiga ",
+        "call_number": "(0298)  326710"
+    },
+    "7": {
+        "No": "7",
+        "location(cordinat)": "",
+        "city": "Polres Banyumas  ",
+        "call_number": "(0281) 622259"
+    },
+    "8": {
+        "No": "8",
+        "location(cordinat)": "",
+        "city": "Polres Cilacap  ",
+        "call_number": "(0282) 544230"
+    },
+    "9": {
+        "No": "9",
+        "location(cordinat)": "",
+        "city": "Polres Banjarnegara ",
+        "call_number": "(0286) 592110"
+    },
+    "10": {
+        "No": "10",
+        "location(cordinat)": "",
+        "city": "Polres Purbalingga ",
+        "call_number": "(0281)  891110"
+    },
+    "11": {
+        "No": "11",
+        "location(cordinat)": "",
+        "city": "Polres Pekalongan Kota ",
+        "call_number": "(0285)  421692"
+    },
+    "12": {
+        "No": "12",
+        "location(cordinat)": "",
+        "city": "Polres Pekalongan  ",
+        "call_number": "(0285)  382028"
+    },
+    "13": {
+        "No": "13",
+        "location(cordinat)": "",
+        "city": "Polres Tegal Kota   ",
+        "call_number": "(0283)  356016"
+    },
+    "14": {
+        "No": "14",
+        "location(cordinat)": "",
+        "city": "Polres Tegal   ",
+        "call_number": "(0283)  492003"
+    },
+    "15": {
+        "No": "15",
+        "location(cordinat)": "",
+        "city": "Polres Brebes   ",
+        "call_number": "(0283)  671110"
+    },
+    "16": {
+        "No": "16",
+        "location(cordinat)": "",
+        "city": "Polres Pemalang   ",
+        "call_number": "(0284)  325038"
+    },
+    "17": {
+        "No": "17",
+        "location(cordinat)": "",
+        "city": "Polres Batang   ",
+        "call_number": "(0285)  391074"
+    },
+    "18": {
+        "No": "18",
+        "location(cordinat)": "",
+        "city": "Polres Pati   ",
+        "call_number": "(0295)  381610"
+    },
+    "19": {
+        "No": "19",
+        "location(cordinat)": "",
+        "city": "Polres Kudus   ",
+        "call_number": "(0291)  438110"
+    },
+    "20": {
+        "No": "20",
+        "location(cordinat)": "",
+        "city": "Polres Jepara   ",
+        "call_number": "(0291)  591110"
+    },
+    "21": {
+        "No": "21",
+        "location(cordinat)": "",
+        "city": "Polres Rembang   ",
+        "call_number": "(0295)  691110"
+    },
+    "22": {
+        "No": "22",
+        "location(cordinat)": "",
+        "city": "Polres Grobogan   ",
+        "call_number": "(0292)  421110"
+    },
+    "23": {
+        "No": "23",
+        "location(cordinat)": "",
+        "city": "Polres Blora   ",
+        "call_number": "(0296)  525110"
+    },
+    "24": {
+        "No": "24",
+        "location(cordinat)": "",
+        "city": "Polres Sukoharjo   ",
+        "call_number": "(0271)  592484"
+    },
+    "25": {
+        "No": "25",
+        "location(cordinat)": "",
+        "city": "Polres Klaten   ",
+        "call_number": "(0272)  321234"
+    },
+    "26": {
+        "No": "26",
+        "location(cordinat)": "",
+        "city": "Polres Boyolali   ",
+        "call_number": "(0276)  321110"
+    },
+    "27": {
+        "No": "27",
+        "location(cordinat)": "",
+        "city": "Polres Karanganyar   ",
+        "call_number": "(0271)  495110"
+    },
+    "28": {
+        "No": "28",
+        "location(cordinat)": "",
+        "city": "Polres Sragen   ",
+        "call_number": "(0271)  891510"
+    },
+    "29": {
+        "No": "29",
+        "location(cordinat)": "",
+        "city": "Polres Wonogiri   ",
+        "call_number": "(0273)  321510"
+    },
+    "30": {
+        "No": "30",
+        "location(cordinat)": "",
+        "city": "Polres Magelang Kota   ",
+        "call_number": "(0293)  313134"
+    },
+    "31": {
+        "No": "31",
+        "location(cordinat)": "",
+        "city": "Polres Magelang   ",
+        "call_number": "(0293)  788787"
+    },
+    "32": {
+        "No": "32",
+        "location(cordinat)": "",
+        "city": "Polres Purworejo   ",
+        "call_number": "(0275)  321110"
+    },
+    "33": {
+        "No": "33",
+        "location(cordinat)": "",
+        "city": "Polres Kebumen   ",
+        "call_number": "(0287)  382110"
+    },
+    "34": {
+        "No": "34",
+        "location(cordinat)": "",
+        "city": "Polres Temanggung   ",
+        "call_number": "(0293)  491110"
+    },
+    "35": {
+        "No": "35",
+        "location(cordinat)": "",
+        "city": "Polres Wonosobo   ",
+        "call_number": "(0286)  321110"
+    }
+}, "FireDepJateng":{
+    "1": {
+        "No": "1",
+        "location(cordinat)": "Jl. Madukoro Raya No.6, Krobokan, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50144",
+        "city": "Dinas Pemadam Kebakaran Kota Semarang",
+        "call_number": "(024) 7605871"
+    },
+    "2": {
+        "No": "2",
+        "location(cordinat)": "Jl. Yosodipuro No.162, Mangkubumen, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57139",
+        "city": "DINAS PEMADAM KEBAKARAN KOTA SURAKARTA Pos Kota Barat",
+        "call_number": "(0271) 710900"
+    },
+    "3": {
+        "No": "3",
+        "location(cordinat)": "8J64+53X, Jl. Mayor Kusmanto, Pondok, Gergunung, Kec. Klaten Utara, Kabupaten Klaten, Jawa Tengah 57438",
+        "city": "Pemadam Kebakaran Kabupaten Klaten",
+        "call_number": "(0272) 324113"
+    },
+    "4": {
+        "No": "4",
+        "location(cordinat)": "FJ67+GR5, Tegalmulyo, Mojosongo, Kec. Mojosongo, Kabupaten Boyolali, Jawa Tengah 57322",
+        "city": "Pemadam Kebakaran Kabupaten Boyolali",
+        "call_number": "(0276) 321313"
+    },
+    "5": {
+        "No": "5",
+        "location(cordinat)": "Jl. Tentara Pelajar No.5, Jebres, Kec. Jebres, Kota Surakarta, Jawa Tengah 57126",
+        "city": "Pemadam Kebakaran Jebres Surakarta ( POS INDUK )",
+        "call_number": "(0271) 655772"
+    },
+    "6": {
+        "No": "6",
+        "location(cordinat)": "samsat masuk, Jl. Raya Semarang - Solo, Kaligandu, Karangduren, Kec. Tengaran, Kabupaten Semarang, Jawa Tengah 50775",
+        "city": "Damkar Kab.semarang Di Tengaran",
+        "call_number": "(0298) 3404011"
+    },
+    "7": {
+        "No": "7",
+        "location(cordinat)": "Jl. Pemuda II Jl. Sanggrahan No.10, Sabggrahan, Giripurwo, Kec. Wonogiri, Kabupaten Wonogiri, Jawa Tengah 57612",
+        "city": "DAMKAR Wonogiri",
+        "call_number": "(0273) 322013"
+    },
+    "8": {
+        "No": "8",
+        "location(cordinat)": "CR8G+J7P, Gajahan, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57144",
+        "city": "Damkar Gading 03",
+        "call_number": "(0271) 654666"
+    },
+    "9": {
+        "No": "9",
+        "location(cordinat)": "Jl Sriwijaya no1 komplek perkantoran, Mandungan, Cangakan, Kec. Karanganyar, Kabupaten Karanganyar, Jawa Tengah 57713",
+        "city": "Damkar Karanganyar",
+        "call_number": "(0271) 495113"
+    },
+    "10": {
+        "No": "10",
+        "location(cordinat)": "PGWC+VVW, Jln.Diponegoro Kabupaten Semarang Jawa Tengah kode, Bringin, Kec. Bringin, Kabupaten Semarang, Jawa Tengah 50772",
+        "city": "Pos DAMKAR Kec.Bringin",
+        "call_number": "(0298) 3434329"
+    },
+    "11": {
+        "No": "11",
+        "location(cordinat)": "H2CF+32J, Jl. Dr. Setia Budi, Magero, Sragen Tengah, Kec. Sragen, Kabupaten Sragen, Jawa Tengah 57211",
+        "city": "Pemadam Kebakaran Sragen",
+        "call_number": "(0271) 891113"
+    },
+    "12": {
+        "No": "12",
+        "location(cordinat)": "FJ67+FVQ, Komplek BPBD Kab, Tegalmulyo, Mojosongo, Kec. Mojosongo, Kabupaten Boyolali, Jawa Tengah 57322",
+        "city": "Pos Induk Pemadam Kebakaran dan Penyelamatan Kabupaten Boyolali",
+        "call_number": "(0276) 312313"
+    },
+    "13": {
+        "No": "13",
+        "location(cordinat)": "JMWV+5CM, Jl. Suruh - Karanggede, Sawah, Klego, Kec. Klego, Kabupaten Boyolali, Jawa Tengah 57385",
+        "city": "Pos Pemadam Kebakaran Klego",
+        "call_number": "(0276) 321313"
+    },
+    "14": {
+        "No": "14",
+        "location(cordinat)": "MG83+JH9, Kalicacing, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50724",
+        "city": "Pemadam Kebakaran Kota Salatiga",
+        "call_number": "(0298) 322106"
+    },
+    "15": {
+        "No": "15",
+        "location(cordinat)": "Jl. Citrosancakan No.8, Dusun 1, Gemolong, Kec. Gemolong, Kabupaten Sragen, Jawa Tengah 50274",
+        "city": "DAMKAR GEMOLONG & REDAM GEMOLONG",
+        "call_number": "(0271) 6811851"
+    },
+    "16": {
+        "No": "16",
+        "location(cordinat)": "FJ64+F75, Lodalang, Siswodipuran, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah 57311",
+        "city": "Pos 2 DAMKAR Kab. Boyolali",
+        "call_number": "(0276) 321313"
+    },
+    "17": {
+        "No": "17",
+        "location(cordinat)": "Simbang, Bebengan, Kec. Boja, Kabupaten Kendal, Jawa Tengah 51381",
+        "city": "Pemadam Kebakaran Boja (Damkar Boja)",
+        "call_number": "(0294) 572313"
+    },
+    "18": {
+        "No": "18",
+        "location(cordinat)": "C63C+FVX, Jl. Soekarno Hatta, Ngentan II, Sawitan, Kec. Mungkid, Kabupaten Magelang, Jawa Tengah 56511",
+        "city": "Pemadam Kebakaran Kab. Magelang",
+        "call_number": "0293) 788213"
+    }
+}
+}
