@@ -4,66 +4,66 @@
         "name_place": "RSUD Siti Fatimah Az-Zahra Provinsi Sumatera Selatan",
         "location(cordinat)": "Jl. Kol. H. Burlian, Suka Bangun, Kec. Sukarami, Kota Palembang, Sumatera Selatan 30151",
         "city": "Palembang",
-        "call_number": "(0711) 5718883"
+        "call_number": "07115718883"
     },
     "2": {
         "No": "2",
         "name_place": "RSUD Talang Ubi",
         "location(cordinat)": "PRCC+Q7C, Jl. Taman Siswa, Ps. Bhayangkara, Kec. Talang Ubi, Kab. Penukal Abab Lematang Ilir, Sumatera Selatan 31211",
         "city": "Penukal Abab Lematang Ilir",
-        "call_number": "(0713) 3922442"
+        "call_number": "07133922442"
     },
     "3": {
         "No": "3",
         "name_place": "Rumah Sakit St. Antonio",
         "location(cordinat)": "No. 3 Km. 3, Jalan. Garuda, Tj. Baru, Kec. Baturaja Timur, Kabupaten Ogan Komering Ulu, Sumatera Selatan 32121",
         "city": "Ogan Komering Ulu",
-        "call_number": "(0735) 320395"
+        "call_number": "0735320395"
     },
     "4": {
         "No": "4",
         "name_place": "Rumah Sakit Islam Ar-Rasyid Palembang",
         "location(cordinat)": "Jl. HM. Saleh No.2, Sukarami, Kec. Sukarami, Kota Palembang, Sumatera Selatan 30961",
         "city": "Palembang",
-        "call_number": "(0711) 5610503"
+        "call_number": "07115610503"
     }
 }, "Police": {
     "1": {
         "No": "1",
         "location(coordinat)": "Jl. Jend. Sudirman No.KM.4, RW.5, Pahlawan, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30151",
         "city": "Markas Besar PolDa Sumatera Selatan",
-        "call_number": "(0711) 320550"
+        "call_number": "0711320550"
     },
     "2": {
         "No": "2",
         "location(coordinat)": "2RG5+2C5, Jalan Dokter Sutami, Kalidoni, Sei Selayur, Palembang, Kota Palembang, Sumatera Selatan 30118",
         "city": "Polsekta Kalidoni",
-        "call_number": "0895-2493-9006"
+        "call_number": "089524939006"
     },
     "3": {
         "No": "3",
         "location(coordinat)": "Jl. KH Wahid Hasyim, 3-4 Ulu, Seberang Ulu I, 3-4 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan 30111",
         "city": "Polisi Sektor Kota (Polsekta) Seberang Ulu 1 Palembang",
-        "call_number": "(0711) 510128"
+        "call_number": "0711510128"
     }
 }, "FireDep":{
     "1": {
         "No": "1",
         "location(coordinat)": "3QHX+Q6C, Sako, Kec. Sako, Kota Palembang, Sumatera Selatan 30961",
         "city": "DINAS PEMADAM KEBAKARAN \"POS SAKO\" SEMATANG BORANG",
-        "call_number": "(0711) 822532"
+        "call_number": "0711822532"
     },
     "2": {
         "No": "2",
         "location(coordinat)": "Jl. Merdeka No.8, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30113",
         "city": "Dinas Pemadam Kebakaran dan Penanggulangan Bencana Kota Palembang",
-        "call_number": "(0711) 312011"
+        "call_number": "0711312011"
     },
     "3": {
         "No": "3",
         "location(coordinat)": "Jl. Talang Keramat, Kebun Bunga, Kec. Sukarami, Kota Palembang, Sumatera Selatan 30961",
         "city": "Pos Damkar Talang Keramat",
-        "call_number": "(0711) 5712333"
+        "call_number": "07115712333"
     }
 }
 }
