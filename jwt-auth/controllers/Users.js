@@ -91,10 +91,12 @@ export const EditUser = async(req, res) => {
     if(!user) return res.status(404).json({msg: "User can't found"});
     const {name, email, alamat, nomorhp, password}=req.body;
     const salt = await bcrypt.genSalt();
-    const hashPassword = await bcrypt.hash(password, salt);
+    let hashPassword; 
     try {
         if(password === "" || password === null){
-            hashPassword = user.password
+            hashPassword = user.password;
+        } else {
+            hashPassword = await bcrypt.hash(password, salt);
         }
         await Users.update({
             name: name,
