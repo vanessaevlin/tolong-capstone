@@ -14,10 +14,10 @@ try{
     console.error(error);
 }
 
-const PORT = process.env.PORT || 'Isi port anda';
+const PORT = process.env.PORT || 8000;
 
 
-app.use(cors({ credentials:true, origin:'Isi https anda'}));
+app.use(cors({ credentials:true, origin:'http://localhost:8000'}));
 app.use(cookieParser());
 app.use(express.json());
 app.use(router);
