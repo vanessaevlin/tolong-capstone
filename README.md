@@ -47,7 +47,7 @@ gcloud builds submit --tag gcr.io/<project_id>/<image_name>
 gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed
 ```
 
-### POST / (send image file)
+### POST (send image file)
 ```sh
 {
     "prediction": "Cut"
