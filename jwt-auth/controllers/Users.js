@@ -60,6 +60,8 @@ export const Login = async(req, res) => {
     const userId = user.id;
     const name = user.name;
     const email = user.email;
+    const alamat = user.alamat;
+    const nomorhp = user.nomorhp;
     const accessToken = jwt.sign({userId, name, email}, process.env.ACCESS_TOKEN_SECRET, {
         expiresIn: '20s'
     });
@@ -75,7 +77,7 @@ export const Login = async(req, res) => {
         httpOnly: true,
         maxAge: 24 * 60 * 60 * 1000
     });
-    res.status(200).json({error: "false",msg: "Login Successfully",loginresult:{accessToken: accessToken,name: name, email:email}});
+    res.status(200).json({error: "false",msg: "Login Successfully",loginresult:{accessToken: accessToken,name: name, email:email, alamat:alamat, nomorhp:nomorhp}});
     } catch (error) {
         res.status(404).json({error: "true", msg:"Email can't be found"});
     }
@@ -88,7 +90,7 @@ export const EditUser = async(req, res) => {
             email: req.body.email
         }
     });
-    if(!user) return res.status(404).json({msg: "User can't found"});
+    if(!user) return res.status(404).json({error: "true",msg: "User can't found"});
     const {name, email, alamat, nomorhp, password}=req.body;
     const salt = await bcrypt.genSalt();
     let hashPassword; 
@@ -109,7 +111,7 @@ export const EditUser = async(req, res) => {
                 id: user.id
             }
         });
-        res.status(200).json({error: "false",msg: "Profil Changed Succesfully"})
+        res.status(200).json({error: "false",msg: "Profil Changed Succesfully",editresult:{name: name,email: email, alamat:alamat, nomorhp:nomorhp, password:password}})
     } catch (error){
         res.status(400).json({msg: error.message});
     }
