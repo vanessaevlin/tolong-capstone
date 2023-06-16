@@ -1,6 +1,7 @@
 ## API
 
-This API jwt-auth & Dataset requires [Node.js](https://nodejs.org/) v16 to run.
+This API jwt-auth & Dataset requires [Node.js](https://nodejs.org/
+) v16 to run.
 
 Install the dependencies and start the server.
 
@@ -44,7 +45,7 @@ gcloud builds submit --tag gcr.io/<project_id>/<image_name>
 
 2. Deploy to Cloud Run
 ```sh
-gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed
+gcloud run deploy --image gcr.io/<project_id>/<image_name> --platform managed
 ```
 
 ### POST (send image file)
