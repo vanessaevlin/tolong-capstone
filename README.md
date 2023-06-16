@@ -48,6 +48,7 @@ gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed
 ```
 
 ### POST (send image file)
+https://getprediction-h2zmlw7akq-et.a.run.app/
 ```sh
 {
     "prediction": "Cut"
